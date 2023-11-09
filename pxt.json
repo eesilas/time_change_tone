@@ -1,5 +1,6 @@
 {
     "name": "time_change_tone",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
